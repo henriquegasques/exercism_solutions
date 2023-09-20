@@ -1,0 +1,14 @@
+/home/gasks/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/gasks/workspace/exercism/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/Paths_collatz_conjecture.hs
+: hash: 6df1157e3b054708e0d2a469ce3ae05596ffc636afca9f5a0d692accd6bdd744
+? /home/gasks/workspace/exercism/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/cabal_macros.h
+: hash: f61a5c70ea433cdcf94a678f24bee343adadf2c5401605088b8c8de6f3863088
+/home/gasks/workspace/exercism/haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 698d79548e4f9c49091de831585487078c31b3cc057f476d6adcbda801a6b9e9
+/home/gasks/workspace/exercism/haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/home/gasks/workspace/exercism/haskell/collatz-conjecture/src/CollatzConjecture.hs:
+  hash: d47354f70eb484f799cd0eb1e0ef8a7993cbd8caf9e9f67bf0e6a769be01050c
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

@@ -1,0 +1,14 @@
+/home/gasks/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/gasks/workspace/exercism/haskell/bank-account/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_bank_account.hs
+: hash: 3b3a06f9498cae09f756910ddebb9cfb08bb15ba0f52896f20b7ca303afad8bc
+/home/gasks/workspace/exercism/haskell/bank-account/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 82791cc1a33566c4db27f9a69173eac252d23768e28daf50cd369e6bd056f066
+/home/gasks/workspace/exercism/haskell/bank-account/bank-account.cabal:
+  hash: 7c56dc76f27a33a00284abab68c6876d3ffe09009ff9c71ce9db5857c2c1c19a
+/home/gasks/workspace/exercism/haskell/bank-account/package.yaml:
+  hash: 6bc5fd1057086028f7a3b34dacf3d5963261d44c71148a444de9480af2ea4ca1
+/home/gasks/workspace/exercism/haskell/bank-account/src/BankAccount.hs:
+  hash: 79f4bb794e03384e59e5a083d64f8a17f24771f18421b95d198d7e79ddfafd28
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

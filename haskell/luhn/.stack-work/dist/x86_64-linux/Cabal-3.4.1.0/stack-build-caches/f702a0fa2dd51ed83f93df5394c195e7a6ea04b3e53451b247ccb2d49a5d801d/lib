@@ -1,0 +1,14 @@
+/home/gasks/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+/home/gasks/workspace/exercism/haskell/luhn/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/Paths_luhn.hs:
+  hash: 71ac49c807abe22109332ba737c9b116917cb5fc88302f92a443db7252533161
+/home/gasks/workspace/exercism/haskell/luhn/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: bc3ca6c36afc3b7f56e759f79ff287bc799813b87c1c4b73eeb6df45b98b3407
+/home/gasks/workspace/exercism/haskell/luhn/luhn.cabal:
+  hash: de51bae7fd9f8b0985eedd92782c4ddcd25c7e0d46854d6471b0defa315bd79e
+/home/gasks/workspace/exercism/haskell/luhn/package.yaml:
+  hash: 27d882b43e86024813dd5f129d5b684114604885a57e6f38e14ccf9a1113b053
+/home/gasks/workspace/exercism/haskell/luhn/src/Luhn.hs:
+  hash: ccfa2e07bee89708cf656a2ae58c14e5396a129113c6430503041bdd66817d22
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

@@ -1,0 +1,14 @@
+/home/gasks/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+/home/gasks/workspace/exercism/haskell/proverb/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/Paths_proverb.hs:
+  hash: 35ace2a9681d27107c35de6cff6b6e9c1f144b249d230bb5523718e9122ef588
+/home/gasks/workspace/exercism/haskell/proverb/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: f909a645eb65e0dba4c086cc6f6cc8f73c78fd29d60d943d4af38b75d71594b5
+/home/gasks/workspace/exercism/haskell/proverb/package.yaml:
+  hash: 7bf3dfa84b99c673569ee4a2cc7c992ab53e1be56874e14ff53636ee0a29286b
+/home/gasks/workspace/exercism/haskell/proverb/proverb.cabal:
+  hash: 36c89850e32d3bf700633b2a9c6e8b958e8b586f736c30dde9ac508597d4accd
+/home/gasks/workspace/exercism/haskell/proverb/src/Proverb.hs:
+  hash: a40de9e39200d1dd948b1627d1391e300fbebfe3789e236d1772bff18913fcce
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
