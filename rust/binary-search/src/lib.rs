@@ -9,7 +9,7 @@ pub fn find(array: &[i32], key: i32) -> Option<usize> {
             return if array[low] == key { Some(low) } else { None }
         }
 
-        let mid = (high - low) / 2 + low;
+        let mid = (high + low) / 2;
         let guess = array[mid];
 
         if guess == key { return Some(mid) }
